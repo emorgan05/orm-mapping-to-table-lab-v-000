@@ -28,4 +28,8 @@ class Student
 
     DB[:conn].execut(sql)
   end
+
+  def save
+    
+  end
 end
